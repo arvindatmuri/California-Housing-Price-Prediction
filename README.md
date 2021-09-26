@@ -1,4 +1,6 @@
-# California Housing Price Prediction: Data Science Project 1
+# California Housing Price Prediction 
+ 
+## Data Science Project: 1
  
 ## DESCRIPTION
 
